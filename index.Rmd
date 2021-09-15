@@ -1,0 +1,13 @@
+---
+title: "Lab 3 i think"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+## Placeholder for website
+

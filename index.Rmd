@@ -1,13 +1,28 @@
 ---
-title: "Lab 3 i think"
-output: html_document
+title: ' '
+pagetitle: 'Your Name'
+output: 
+  html_document: 
+    css: "styles.css"
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+```{R echo=F, eval=F}
+#to build this website into the _site directory, run
+rmarkdown::site_generator()
 ```
+ 
+<img src="itme.jpg" style=width:40% class="img-circle">
 
-## R Markdown
+<br>
 
-## Placeholder for website
+# Welcome! I am Tran Nguyen. 
+  
+</br>
 
+##### I am a Human Dimensions of Organizations Junior and am also working on my Applied Statistical Modelling Certificate.
+
+##### I enjoy hanging out with Social Anime Club which I am President of. 
+
+##### I don't have any data-related projects either, but if I did you could find them [here](/portfolio)!
+
+---

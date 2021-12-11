@@ -17,10 +17,10 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 
 - <i class="fa fa-chart-line"> </i> [Project 1: Description](https://pearlgonix.github.io/project1/)
 
-    - See my SDS 320E project here!
+    - See my SDS 322E project here!
 
 <br>
 
 - <i class="fa fa-chart-pie"> </i> [Project 2: Description](https://pearlgonix.github.io/project2/)
 
-    - Stay Tuned!
+    - Part 2!
